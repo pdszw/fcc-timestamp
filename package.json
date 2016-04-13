@@ -1,0 +1,13 @@
+{
+  "name": "fcc-timestamp",
+  "version": "1.0.0",
+  "description": "freeCodeCamp BaseJump Timestamp API",
+  "main": "server.js",
+  "repository": "",
+  "author": "PDS <pds@pds.id.au>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "^4.12.4",
+    "socket.io": "~0.9.14"
+  }
+}
